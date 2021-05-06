@@ -26,7 +26,8 @@ Your challenge is to create travel app (home and details screen) and get it look
 ## Completion Levels
 
 Beginner - Completed Static screen (no interactive component)
-Advanced - Beginner + Have interactive components (scrollable carousell stack)
+
+Advanced - Beginner + Have interactive components (scrollable carousel stack)
 
 ## Suggestions
 
@@ -36,8 +37,8 @@ Advanced - Beginner + Have interactive components (scrollable carousell stack)
 
 ## Submitting your solution
 
-Submit your solution with a screenshot to the [Design2Flutter subreddit](https://www.reddit.com/r/Design2Flutter/).
+Submit your solution with a screenshot to the [Design2Flutter subreddit](https://www.reddit.com/r/Design2Flutter/) with the solution flair.
 
-Tweet your work on Twitter with the tag [@Design2Flutter](https://twitter.com/Design2Flutter) and hashtage #design2flutter and include the reddit post.
+Tweet your work on Twitter with the tag [@Design2Flutter](https://twitter.com/Design2Flutter) and hashtag [#design2flutter](https://twitter.com/search?q=%23design2flutter&src=typeahead_click) and include the reddit post.
 
-Share on your LikedIn and tag [me](https://www.linkedin.com/in/haris-samingan-7889b9140/).
+Share on your LinkedIn and tag [me](https://www.linkedin.com/in/haris-samingan-7889b9140/).
