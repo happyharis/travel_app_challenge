@@ -1,6 +1,6 @@
 # Design 2 Flutter - Travel App
 
-![Design preview for the home screen coding challenge](./assets/images/home.jpeg) ![Design preview for the details screen coding challenge](./assets/images/details.jpeg)
+![travel app](https://user-images.githubusercontent.com/31005114/117248158-0d71d200-ae72-11eb-8fe7-593ed01b4d44.png)
 
 Designed by [Atiqur Rahaman](https://dribbble.com/atiq31416)
 
